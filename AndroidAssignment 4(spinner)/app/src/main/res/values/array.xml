@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Countries">
+        <item>Select Country</item>
+        <item>India</item>
+        <item>USA</item>
+        <item>Canada</item>
+        <item>Pakistan</item>
+        <item>Australia</item>
+    </string-array>
+
+    <string-array name="States">
+        <item>Select State</item>
+        <item>Haryana</item>
+        <item>New Delhi</item>
+        <item>Jammu and Kashmir</item>
+        <item>Uttarakhand</item>
+        <item>Punjab</item>
+    </string-array>
+
+    <string-array name="States1">
+        <item>Select State</item>
+        <item>Florida</item>
+        <item>Massachusetts</item>
+        <item>Mississippi</item>
+        <item>New Jersey</item>
+        <item>New York</item>
+    </string-array>
+
+    <string-array name="States2">
+        <item>Select State</item>
+        <item>Ontario</item>
+        <item>Alberta</item>
+        <item>Nova Scotia</item>
+        <item>British Columbia</item>
+        <item>Manitoba</item>
+    </string-array>
+
+
+    <string-array name="States4">
+        <item>Select State</item>
+        <item>New South Wales</item>
+        <item>Queensland</item>
+        <item>Victoria</item>
+        <item>Tasmania</item>
+        <item>Christmas Island</item>
+    </string-array>
+
+
+    <string-array name="States3">
+        <item>Select State</item>
+        <item>Karachi</item>
+        <item>Islamabad</item>
+        <item>Sindh</item>
+        <item>Balochistan</item>
+        <item>Punjab</item>
+    </string-array>
+
+</resources>
